@@ -17,7 +17,11 @@ html {
       line-height: 2;
       font-size: 2rem;
   }
-
+.header {
+    display: grid;
+    justify-content: center;
+    padding: 3rem 0;
+}
 
   .barra {
       background-color: var(--primarioOscuro);
